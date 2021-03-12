@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.66b81d94.chunk.css",
+    "main.js": "/static/js/main.e0264f0d.chunk.js",
+    "main.js.map": "/static/js/main.e0264f0d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.40b8d4c9.js",
+    "runtime-main.js.map": "/static/js/runtime-main.40b8d4c9.js.map",
+    "static/css/2.36e6f016.chunk.css": "/static/css/2.36e6f016.chunk.css",
+    "static/js/2.a8d2b784.chunk.js": "/static/js/2.a8d2b784.chunk.js",
+    "static/js/2.a8d2b784.chunk.js.map": "/static/js/2.a8d2b784.chunk.js.map",
+    "static/js/3.0b1d196d.chunk.js": "/static/js/3.0b1d196d.chunk.js",
+    "static/js/3.0b1d196d.chunk.js.map": "/static/js/3.0b1d196d.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.36e6f016.chunk.css.map": "/static/css/2.36e6f016.chunk.css.map",
+    "static/css/main.66b81d94.chunk.css.map": "/static/css/main.66b81d94.chunk.css.map",
+    "static/js/2.a8d2b784.chunk.js.LICENSE.txt": "/static/js/2.a8d2b784.chunk.js.LICENSE.txt",
+    "static/js/pdf.worker.entry.a4078359.worker.js": "/static/js/pdf.worker.entry.a4078359.worker.js",
+    "static/js/pdf.worker.entry.a4078359.worker.js.LICENSE.txt": "/static/js/pdf.worker.entry.a4078359.worker.js.LICENSE.txt",
+    "static/js/pdf.worker.entry.a4078359.worker.js.map": "/static/js/pdf.worker.entry.a4078359.worker.js.map",
+    "static/media/project_1_details.5ad12c1f.pdf": "/static/media/project_1_details.5ad12c1f.pdf",
+    "static/media/project_1_thumbnail.319c1094.png": "/static/media/project_1_thumbnail.319c1094.png",
+    "static/media/project_2_details.e3c2ce7c.pdf": "/static/media/project_2_details.e3c2ce7c.pdf",
+    "static/media/project_2_thumbnail.ca637c2f.png": "/static/media/project_2_thumbnail.ca637c2f.png",
+    "static/media/project_3_details.34715ab2.pdf": "/static/media/project_3_details.34715ab2.pdf",
+    "static/media/project_3_thumbnail.2e1c0804.png": "/static/media/project_3_thumbnail.2e1c0804.png",
+    "static/media/project_4_details.10ba152d.pdf": "/static/media/project_4_details.10ba152d.pdf",
+    "static/media/project_4_thumbnail.e7271914.png": "/static/media/project_4_thumbnail.e7271914.png",
+    "static/media/wavingHand.be6abb0a.png": "/static/media/wavingHand.be6abb0a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.40b8d4c9.js",
+    "static/css/2.36e6f016.chunk.css",
+    "static/js/2.a8d2b784.chunk.js",
+    "static/css/main.66b81d94.chunk.css",
+    "static/js/main.e0264f0d.chunk.js"
+  ]
+}
