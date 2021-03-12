@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.66b81d94.chunk.css",
+    "main.css": "/static/css/main.6de704dd.chunk.css",
     "main.js": "/static/js/main.b78a372b.chunk.js",
     "main.js.map": "/static/js/main.b78a372b.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.40b8d4c9.js",
@@ -12,7 +12,7 @@
     "static/js/3.0b1d196d.chunk.js.map": "/static/js/3.0b1d196d.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.36e6f016.chunk.css.map": "/static/css/2.36e6f016.chunk.css.map",
-    "static/css/main.66b81d94.chunk.css.map": "/static/css/main.66b81d94.chunk.css.map",
+    "static/css/main.6de704dd.chunk.css.map": "/static/css/main.6de704dd.chunk.css.map",
     "static/js/2.a8d2b784.chunk.js.LICENSE.txt": "/static/js/2.a8d2b784.chunk.js.LICENSE.txt",
     "static/js/pdf.worker.entry.a4078359.worker.js": "/static/js/pdf.worker.entry.a4078359.worker.js",
     "static/js/pdf.worker.entry.a4078359.worker.js.LICENSE.txt": "/static/js/pdf.worker.entry.a4078359.worker.js.LICENSE.txt",
@@ -31,7 +31,7 @@
     "static/js/runtime-main.40b8d4c9.js",
     "static/css/2.36e6f016.chunk.css",
     "static/js/2.a8d2b784.chunk.js",
-    "static/css/main.66b81d94.chunk.css",
+    "static/css/main.6de704dd.chunk.css",
     "static/js/main.b78a372b.chunk.js"
   ]
 }
